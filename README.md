@@ -6,12 +6,15 @@
 
 ---
 
+### 👋 &nbsp; About Me
+
 <p align="center">
   <samp>
-    🎓 Digital Media Technology @ <b>Chengdu University</b> &nbsp;|&nbsp;
-    📍 Chengdu, Sichuan, China<br>
-    🎮 Building immersive game experiences &nbsp;|&nbsp;
-    🤖 Exploring AI-powered development workflows
+    Hi there! I'm <b>Dino</b> (李帅), a Digital Media Technology student at <b>Chengdu University</b> — 
+    passionate about the intersection of <b>game development</b> and <b>artificial intelligence</b>.<br>
+    I build games with Unity & C#, craft AI agent systems like the <b>LS Claude Agent Department</b>, 
+    and explore how machines can augment the creative process.<br>
+    Always curious, always building. 🚀
   </samp>
 </p>
 
@@ -45,21 +48,46 @@
 
 ---
 
+### 🏆 &nbsp; GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanser-05-V&theme=tokyonight&no-frame=true&column=7&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+---
+
+### 🐍 &nbsp; Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanser-05-V/hanser-05-V/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanser-05-V/hanser-05-V/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/hanser-05-V/hanser-05-V/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### 🏆 &nbsp; Featured Projects
 
 <p align="center">
-  <a href="https://github.com/hanser-05-V/Pixel-War">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=hanser-05-V&repo=Pixel-War&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  </a>
   <a href="https://github.com/hanser-05-V/Ls_Claude_Agents">
     <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=hanser-05-V&repo=Ls_Claude_Agents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
   </a>
-  <a href="https://github.com/hanser-05-V/Castlevania">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=hanser-05-V&repo=Castlevania&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  <a href="https://github.com/hanser-05-V/AiManSuiVideo">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=hanser-05-V&repo=AiManSuiVideo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
   </a>
-  <a href="https://github.com/hanser-05-V/PRG-Game">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=hanser-05-V&repo=PRG-Game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  <a href="https://github.com/hanser-05-V/suisui-">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=hanser-05-V&repo=suisui-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
   </a>
+</p>
+
+<p align="center">
+  <samp>
+    🤖 <b>Ls_Claude_Agents</b> — 7-Agent AI 开发部门协作体系<br>
+    🎬 <b>AiManSuiVideo</b> — AI 驱动的视频处理工作流<br>
+    💬 <b>suisui-</b> — AI 聊天智能体
+  </samp>
 </p>
 
 ---
@@ -73,6 +101,17 @@
     📚 Deep-diving into game framework architecture & frame synchronization<br>
     🧪 Experimenting with AI-assisted game development workflows
   </samp>
+</p>
+
+---
+
+### 🔗 &nbsp; Connect
+
+<p align="center">
+  <a href="https://github.com/hanser-05-V">
+    <img src="https://img.shields.io/badge/GitHub-hanser--05--V-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- 帅老大在这里加更多社交链接 badge -->
 </p>
 
 ---
